@@ -5,10 +5,9 @@
 
 <div align="center">
   <h1>Status</h1>
-</div>
-<div>
-  <img width="420em" src="https://github-readme-stats.vercel.app/api?username=MateusQuintanilha&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-   <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusQuintanilha&layout=compact&langs_count=16&theme=nord"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusQuintanilha&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusQuintanilha&layout=compact&langs_count=7&theme=nord"/>
   
   ![Snake animation](https://github.com/MateusQuintanilha/MateusQuintanilha/blob/output/github-contribution-grid-snake.svg)
 </div>
